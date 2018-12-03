@@ -8,7 +8,7 @@
 Computing In AR - Final Project.sln: modified
 Computing In AR - Final Project\App.cs: B132FEDA78D5872E0CFABF886E9893B5
 Computing In AR - Final Project\AssemblyConverterArgs.txt: 6E01E255D98B7DE76D72EFF7B0160437
-Computing In AR - Final Project\Computing In AR - Final Project.csproj: C04FDF1EFA1ACA63B77F590309EC02D3
+Computing In AR - Final Project\Computing In AR - Final Project.csproj: CD1436BEF1D07DE6CD1CDCAA258FE1AD
 Computing In AR - Final Project\Computing In AR - Final Project.csproj.user: modified
 Computing In AR - Final Project\Package.appxmanifest: 6B982657CFC2C7A6E651E98FEA7F0233
 Computing In AR - Final Project\project.json: 1D02BC64BAC0D041019673A1C4C51737
