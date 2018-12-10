@@ -8,9 +8,9 @@
 Computing In AR - Final Project.sln: modified
 Computing In AR - Final Project\App.cs: B132FEDA78D5872E0CFABF886E9893B5
 Computing In AR - Final Project\AssemblyConverterArgs.txt: 6E01E255D98B7DE76D72EFF7B0160437
-Computing In AR - Final Project\Computing In AR - Final Project.csproj: AFCB3350F4FA944E77E755835EB655C4
+Computing In AR - Final Project\Computing In AR - Final Project.csproj: 64660AE9F157F02676C2B759B54139A8
 Computing In AR - Final Project\Computing In AR - Final Project.csproj.user: modified
-Computing In AR - Final Project\Package.appxmanifest: 6B982657CFC2C7A6E651E98FEA7F0233
+Computing In AR - Final Project\Package.appxmanifest: 61B1D89E17CDD5C3B8B840CA0D23DCD4
 Computing In AR - Final Project\project.json: 1D02BC64BAC0D041019673A1C4C51737
 Computing In AR - Final Project\Assets\SplashScreen.scale-200.png: A85C1D7624B6902CF8CEBD6F0200A826
 Computing In AR - Final Project\Assets\Square150x150Logo.scale-200.png: E02834B4A5DFB97FF8E212C1CACBB084
@@ -19,7 +19,6 @@ Computing In AR - Final Project\Assets\Square44x44Logo.targetsize-24.png: 156637
 Computing In AR - Final Project\Assets\Square44x44Logo.targetsize-24_altform-unplated.png: 156637F7B5363E983E7A46D8E533A23D
 Computing In AR - Final Project\Assets\StoreLogo.png: 90BD194CA4A7CFFF3E8B8222229857FB
 Computing In AR - Final Project\Assets\Wide310x150Logo.scale-200.png: C96846A80DF667F87355569CD816192D
-Computing In AR - Final Project\obj\x86\Debug\Computing In AR - Final Project.csproj.CopyComplete: D41D8CD98F00B204E9800998ECF8427E
 Computing In AR - Final Project\obj\x86\Release\Computing In AR - Final Project.csproj.CopyComplete: D41D8CD98F00B204E9800998ECF8427E
 Computing In AR - Final Project\Properties\Default.rd.xml: 72EB282657164E79A1C42F6240984826
 GeneratedProjects\UWP\Assembly-CSharp\project.json: 1D02BC64BAC0D041019673A1C4C51737

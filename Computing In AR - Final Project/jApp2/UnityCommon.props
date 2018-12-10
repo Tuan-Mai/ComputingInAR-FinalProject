@@ -1,0 +1,9 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <UnityWSASolutionName>Computing In AR - Final Project</UnityWSASolutionName>
+        <UnityWSASolutionDir>C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp2\</UnityWSASolutionDir>
+        <UnityProjectDir>C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\</UnityProjectDir>
+        <UnityWSAPlayerDir>C:\Program Files\Unity\Hub\Editor\2018.1.9f2\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
+        <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
+    </PropertyGroup>
+</Project>

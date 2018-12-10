@@ -10,22 +10,22 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>33394e23-43e3-44d9-85fa-a3c88b427328</PackageIdentityName>
     <PackageIdentityPublisher>CN=DefaultCompany</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp\Computing In AR - Final Project\obj\x86\Release\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp2\Computing In AR - Final Project\obj\x86\Release\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp\Computing In AR - Final Project\bin\x86\Release\AppX</LayoutDir>
+    <LayoutDir>C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp2\Computing In AR - Final Project\bin\x86\Release\AppX</LayoutDir>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp\Computing In AR - Final Project\bin\x86\Release\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp2\Computing In AR - Final Project\bin\x86\Release\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp\Computing In AR - Final Project\bin\x86\Release\Computing In AR - Final Project.exe">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp2\Computing In AR - Final Project\bin\x86\Release\Computing In AR - Final Project.exe">
       <PackagePath>entrypoint\Computing In AR - Final Project.exe</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Jordan\.nuget\packages\microsoft.applicationinsights\1.0.0\lib\portable-win81+wpa81\Microsoft.ApplicationInsights.dll">
@@ -349,7 +349,7 @@
     <AppxPackagedFile Include="C:\Program Files\Unity\Hub\Editor\2018.1.9f2\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\dotnet\x86\Release\UnityEngineProxy.dll">
       <PackagePath>UnityEngineProxy.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp\Computing In AR - Final Project\Unprocessed\WinRTLegacy.dll">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp2\Computing In AR - Final Project\Unprocessed\WinRTLegacy.dll">
       <PackagePath>WinRTLegacy.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files\Unity\Hub\Editor\2018.1.9f2\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\dotnet\x86\Release\UnityPlayer.dll">
@@ -373,248 +373,245 @@
     <AppxPackagedFile Include="C:\Program Files\Unity\Hub\Editor\2018.1.9f2\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\dotnet\x86\Release\WinRTBridge.winmd">
       <PackagePath>WinRTBridge.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp\Computing In AR - Final Project\Resource.res">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp2\Computing In AR - Final Project\Resource.res">
       <PackagePath>Resource.res</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp\Computing In AR - Final Project\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp2\Computing In AR - Final Project\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp\Computing In AR - Final Project\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp2\Computing In AR - Final Project\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp\Computing In AR - Final Project\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp2\Computing In AR - Final Project\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp\Computing In AR - Final Project\Assets\Square44x44Logo.targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp2\Computing In AR - Final Project\Assets\Square44x44Logo.targetsize-24.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp\Computing In AR - Final Project\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp2\Computing In AR - Final Project\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp\Computing In AR - Final Project\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp2\Computing In AR - Final Project\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp\Computing In AR - Final Project\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp2\Computing In AR - Final Project\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp\Computing In AR - Final Project\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp2\Computing In AR - Final Project\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp\Computing In AR - Final Project\Data\boot.config">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp2\Computing In AR - Final Project\Data\boot.config">
       <PackagePath>Data\boot.config</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp\Computing In AR - Final Project\Data\globalgamemanagers">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp2\Computing In AR - Final Project\Data\globalgamemanagers">
       <PackagePath>Data\globalgamemanagers</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp\Computing In AR - Final Project\Data\level0">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp2\Computing In AR - Final Project\Data\level0">
       <PackagePath>Data\level0</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp\Computing In AR - Final Project\Data\Resources\unity default resources">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp2\Computing In AR - Final Project\Data\Resources\unity default resources">
       <PackagePath>Data\Resources\unity default resources</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp\Computing In AR - Final Project\Data\Resources\unity_builtin_extra">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp2\Computing In AR - Final Project\Data\Resources\unity_builtin_extra">
       <PackagePath>Data\Resources\unity_builtin_extra</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp\Computing In AR - Final Project\Data\globalgamemanagers.assets">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp2\Computing In AR - Final Project\Data\globalgamemanagers.assets">
       <PackagePath>Data\globalgamemanagers.assets</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp\Computing In AR - Final Project\Data\resources.assets">
-      <PackagePath>Data\resources.assets</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp\Computing In AR - Final Project\Data\sharedassets0.assets">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp2\Computing In AR - Final Project\Data\sharedassets0.assets">
       <PackagePath>Data\sharedassets0.assets</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp\Computing In AR - Final Project\Data\level0.resS">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp2\Computing In AR - Final Project\Data\level0.resS">
       <PackagePath>Data\level0.resS</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp\Computing In AR - Final Project\Data\resources.assets.resS">
-      <PackagePath>Data\resources.assets.resS</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp\Computing In AR - Final Project\Data\sharedassets0.assets.resS">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp2\Computing In AR - Final Project\Data\sharedassets0.assets.resS">
       <PackagePath>Data\sharedassets0.assets.resS</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp\Computing In AR - Final Project\Data\managedAssemblies.txt">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp2\Computing In AR - Final Project\Data\managedAssemblies.txt">
       <PackagePath>Data\managedAssemblies.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp2\Computing In AR - Final Project\Data\sharedassets0.resource">
+      <PackagePath>Data\sharedassets0.resource</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.17763.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp\Computing In AR - Final Project\bin\x86\Release\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp2\Computing In AR - Final Project\bin\x86\Release\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp\Computing In AR - Final Project\UnityEngine.SpriteMaskModule.dll">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp2\Computing In AR - Final Project\UnityEngine.SpriteMaskModule.dll">
       <PackagePath>UnityEngine.SpriteMaskModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp\Computing In AR - Final Project\UnityEngine.SpriteShapeModule.dll">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp2\Computing In AR - Final Project\UnityEngine.SpriteShapeModule.dll">
       <PackagePath>UnityEngine.SpriteShapeModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp\Computing In AR - Final Project\UnityEngine.StyleSheetsModule.dll">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp2\Computing In AR - Final Project\UnityEngine.StyleSheetsModule.dll">
       <PackagePath>UnityEngine.StyleSheetsModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp\Computing In AR - Final Project\UnityEngine.TerrainModule.dll">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp2\Computing In AR - Final Project\UnityEngine.TerrainModule.dll">
       <PackagePath>UnityEngine.TerrainModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp\Computing In AR - Final Project\UnityEngine.TerrainPhysicsModule.dll">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp2\Computing In AR - Final Project\UnityEngine.TerrainPhysicsModule.dll">
       <PackagePath>UnityEngine.TerrainPhysicsModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp\Computing In AR - Final Project\UnityEngine.TextRenderingModule.dll">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp2\Computing In AR - Final Project\UnityEngine.TextRenderingModule.dll">
       <PackagePath>UnityEngine.TextRenderingModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp\Computing In AR - Final Project\UnityEngine.TilemapModule.dll">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp2\Computing In AR - Final Project\UnityEngine.TilemapModule.dll">
       <PackagePath>UnityEngine.TilemapModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp\Computing In AR - Final Project\UnityEngine.UIElementsModule.dll">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp2\Computing In AR - Final Project\UnityEngine.UIElementsModule.dll">
       <PackagePath>UnityEngine.UIElementsModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp\Computing In AR - Final Project\UnityEngine.UIModule.dll">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp2\Computing In AR - Final Project\UnityEngine.UIModule.dll">
       <PackagePath>UnityEngine.UIModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp\Computing In AR - Final Project\UnityEngine.UNETModule.dll">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp2\Computing In AR - Final Project\UnityEngine.UNETModule.dll">
       <PackagePath>UnityEngine.UNETModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp\Computing In AR - Final Project\UnityEngine.UnityConnectModule.dll">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp2\Computing In AR - Final Project\UnityEngine.UnityConnectModule.dll">
       <PackagePath>UnityEngine.UnityConnectModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp\Computing In AR - Final Project\UnityEngine.UnityWebRequestAssetBundleModule.dll">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp2\Computing In AR - Final Project\UnityEngine.UnityWebRequestAssetBundleModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestAssetBundleModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp\Computing In AR - Final Project\UnityEngine.UnityWebRequestAudioModule.dll">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp2\Computing In AR - Final Project\UnityEngine.UnityWebRequestAudioModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestAudioModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp\Computing In AR - Final Project\UnityEngine.UnityWebRequestModule.dll">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp2\Computing In AR - Final Project\UnityEngine.UnityWebRequestModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp\Computing In AR - Final Project\UnityEngine.UnityWebRequestTextureModule.dll">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp2\Computing In AR - Final Project\UnityEngine.UnityWebRequestTextureModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestTextureModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp\Computing In AR - Final Project\UnityEngine.UnityWebRequestWWWModule.dll">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp2\Computing In AR - Final Project\UnityEngine.UnityWebRequestWWWModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestWWWModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp\Computing In AR - Final Project\UnityEngine.VehiclesModule.dll">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp2\Computing In AR - Final Project\UnityEngine.VehiclesModule.dll">
       <PackagePath>UnityEngine.VehiclesModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp\Computing In AR - Final Project\UnityEngine.VideoModule.dll">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp2\Computing In AR - Final Project\UnityEngine.VideoModule.dll">
       <PackagePath>UnityEngine.VideoModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp\Computing In AR - Final Project\UnityEngine.VRModule.dll">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp2\Computing In AR - Final Project\UnityEngine.VRModule.dll">
       <PackagePath>UnityEngine.VRModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp\Computing In AR - Final Project\UnityEngine.WebModule.dll">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp2\Computing In AR - Final Project\UnityEngine.WebModule.dll">
       <PackagePath>UnityEngine.WebModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp\Computing In AR - Final Project\UnityEngine.WindModule.dll">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp2\Computing In AR - Final Project\UnityEngine.WindModule.dll">
       <PackagePath>UnityEngine.WindModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp\Computing In AR - Final Project\UnityEngine.UnityAnalyticsModule.dll">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp2\Computing In AR - Final Project\UnityEngine.UnityAnalyticsModule.dll">
       <PackagePath>UnityEngine.UnityAnalyticsModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp\Computing In AR - Final Project\UnityEngine.SharedInternalsModule.dll">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp2\Computing In AR - Final Project\UnityEngine.SharedInternalsModule.dll">
       <PackagePath>UnityEngine.SharedInternalsModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp\Computing In AR - Final Project\UnityEngine.ScreenCaptureModule.dll">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp2\Computing In AR - Final Project\UnityEngine.ScreenCaptureModule.dll">
       <PackagePath>UnityEngine.ScreenCaptureModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp\Computing In AR - Final Project\UnityEngine.PhysicsModule.dll">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp2\Computing In AR - Final Project\UnityEngine.PhysicsModule.dll">
       <PackagePath>UnityEngine.PhysicsModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp\Computing In AR - Final Project\UnityEngine.AccessibilityModule.dll">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp2\Computing In AR - Final Project\UnityEngine.AccessibilityModule.dll">
       <PackagePath>UnityEngine.AccessibilityModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp\Computing In AR - Final Project\UnityEngine.AIModule.dll">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp2\Computing In AR - Final Project\UnityEngine.AIModule.dll">
       <PackagePath>UnityEngine.AIModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp\Computing In AR - Final Project\UnityEngine.AnimationModule.dll">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp2\Computing In AR - Final Project\UnityEngine.AnimationModule.dll">
       <PackagePath>UnityEngine.AnimationModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp\Computing In AR - Final Project\UnityEngine.ARModule.dll">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp2\Computing In AR - Final Project\UnityEngine.ARModule.dll">
       <PackagePath>UnityEngine.ARModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp\Computing In AR - Final Project\UnityEngine.AssetBundleModule.dll">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp2\Computing In AR - Final Project\UnityEngine.AssetBundleModule.dll">
       <PackagePath>UnityEngine.AssetBundleModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp\Computing In AR - Final Project\UnityEngine.AudioModule.dll">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp2\Computing In AR - Final Project\UnityEngine.AudioModule.dll">
       <PackagePath>UnityEngine.AudioModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp\Computing In AR - Final Project\UnityEngine.ClothModule.dll">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp2\Computing In AR - Final Project\UnityEngine.ClothModule.dll">
       <PackagePath>UnityEngine.ClothModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp\Computing In AR - Final Project\UnityEngine.CoreModule.dll">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp2\Computing In AR - Final Project\UnityEngine.CoreModule.dll">
       <PackagePath>UnityEngine.CoreModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp\Computing In AR - Final Project\UnityEngine.CrashReportingModule.dll">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp2\Computing In AR - Final Project\UnityEngine.CrashReportingModule.dll">
       <PackagePath>UnityEngine.CrashReportingModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp\Computing In AR - Final Project\UnityEngine.DirectorModule.dll">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp2\Computing In AR - Final Project\UnityEngine.DirectorModule.dll">
       <PackagePath>UnityEngine.DirectorModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp\Computing In AR - Final Project\UnityEngine.dll">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp2\Computing In AR - Final Project\UnityEngine.dll">
       <PackagePath>UnityEngine.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp\Computing In AR - Final Project\UnityEngine.GameCenterModule.dll">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp2\Computing In AR - Final Project\UnityEngine.GameCenterModule.dll">
       <PackagePath>UnityEngine.GameCenterModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp\Computing In AR - Final Project\UnityEngine.GridModule.dll">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp2\Computing In AR - Final Project\UnityEngine.GridModule.dll">
       <PackagePath>UnityEngine.GridModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp\Computing In AR - Final Project\UnityEngine.ImageConversionModule.dll">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp2\Computing In AR - Final Project\UnityEngine.ImageConversionModule.dll">
       <PackagePath>UnityEngine.ImageConversionModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp\Computing In AR - Final Project\UnityEngine.IMGUIModule.dll">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp2\Computing In AR - Final Project\UnityEngine.IMGUIModule.dll">
       <PackagePath>UnityEngine.IMGUIModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp\Computing In AR - Final Project\UnityEngine.InputModule.dll">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp2\Computing In AR - Final Project\UnityEngine.InputModule.dll">
       <PackagePath>UnityEngine.InputModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp\Computing In AR - Final Project\UnityEngine.JSONSerializeModule.dll">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp2\Computing In AR - Final Project\UnityEngine.JSONSerializeModule.dll">
       <PackagePath>UnityEngine.JSONSerializeModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp\Computing In AR - Final Project\UnityEngine.ParticlesLegacyModule.dll">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp2\Computing In AR - Final Project\UnityEngine.ParticlesLegacyModule.dll">
       <PackagePath>UnityEngine.ParticlesLegacyModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp\Computing In AR - Final Project\UnityEngine.ParticleSystemModule.dll">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp2\Computing In AR - Final Project\UnityEngine.ParticleSystemModule.dll">
       <PackagePath>UnityEngine.ParticleSystemModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp\Computing In AR - Final Project\UnityEngine.PerformanceReportingModule.dll">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp2\Computing In AR - Final Project\UnityEngine.PerformanceReportingModule.dll">
       <PackagePath>UnityEngine.PerformanceReportingModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp\Computing In AR - Final Project\UnityEngine.Physics2DModule.dll">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp2\Computing In AR - Final Project\UnityEngine.Physics2DModule.dll">
       <PackagePath>UnityEngine.Physics2DModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp\Computing In AR - Final Project\UnityEngine.XRModule.dll">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp2\Computing In AR - Final Project\UnityEngine.XRModule.dll">
       <PackagePath>UnityEngine.XRModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp\Computing In AR - Final Project\Newtonsoft.Json.dll">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp2\Computing In AR - Final Project\Newtonsoft.Json.dll">
       <PackagePath>Newtonsoft.Json.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp\Computing In AR - Final Project\UnityEngine.Timeline.dll">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp2\Computing In AR - Final Project\UnityEngine.Timeline.dll">
       <PackagePath>UnityEngine.Timeline.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp\Computing In AR - Final Project\UnityEngine.UI.dll">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp2\Computing In AR - Final Project\UnityEngine.UI.dll">
       <PackagePath>UnityEngine.UI.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp\Computing In AR - Final Project\UnityEngine.SpatialTracking.dll">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp2\Computing In AR - Final Project\UnityEngine.SpatialTracking.dll">
       <PackagePath>UnityEngine.SpatialTracking.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp\Computing In AR - Final Project\UnityEngine.HoloLens.dll">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp2\Computing In AR - Final Project\UnityEngine.HoloLens.dll">
       <PackagePath>UnityEngine.HoloLens.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp\Computing In AR - Final Project\UnityEngine.Networking.dll">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp2\Computing In AR - Final Project\UnityEngine.Networking.dll">
       <PackagePath>UnityEngine.Networking.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp\Computing In AR - Final Project\GLTFSerializationUWP.dll">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp2\Computing In AR - Final Project\GLTFSerializationUWP.dll">
       <PackagePath>GLTFSerializationUWP.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp\Computing In AR - Final Project\Assembly-CSharp.dll">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp2\Computing In AR - Final Project\Assembly-CSharp.dll">
       <PackagePath>Assembly-CSharp.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp\Computing In AR - Final Project\bin\x86\Release\Core\Computing In AR - Final Project.exe">
+    <AppxPackagedFile Include="C:\Users\Jordan\Documents\ComputingInAR-FinalProject\Computing In AR - Final Project\jApp2\Computing In AR - Final Project\bin\x86\Release\Core\Computing In AR - Final Project.exe">
       <PackagePath>Computing In AR - Final Project.exe</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>
